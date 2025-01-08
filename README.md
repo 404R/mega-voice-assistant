@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mega Voice Assistant
 
 ### Overview
@@ -16,3 +17,6 @@ Mega is an AI-powered voice assistant designed to:
 
 ### Getting Started
 1. Clone the repository:
+=======
+# mega-voice-assistant
+>>>>>>> 3a54d5bdf91cf8cf2e9056fdf8f57f3f27a7ffc8
